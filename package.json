@@ -1,6 +1,6 @@
 {
-  "name": "ingles-dinamita",
-  "version": "1.0.0",
+  "name": "dynamic-english",
+  "version": "3.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,10 +13,10 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.10",
-    "vite": "^5.4.0",
-    "@vitejs/plugin-react": "^4.3.1"
+    "vite": "^5.4.0"
   }
 }
