@@ -1,18 +1,6 @@
-# Inglés Dinamita (Vite + React + Tailwind)
+# Dynamic English v3
 
-## Desarrollo local
-```bash
-npm i
-npm run dev
-```
-
-## Build
-```bash
-npm run build
-```
-
-## Deploy en Vercel
-- Framework: **Vite**
-- Build Command: `npm run build`
-- Output Directory: `dist`
-- Si aparece error de *paquete no resolvible*, edite `vite.config.js` y agregue el nombre en `build.rollupOptions.external`.
+App de aprendizaje de inglés general con:
+- A1, A2 y B1 completos.
+- Pronunciación (TTS y STT básico).
+- Footer: Hecho por Dinamita Apps.
